@@ -11,7 +11,7 @@
 
   <name>AnnuaireTelephonique</name>
   <!-- FIXME change it to the project's website -->
-  <url>http://annuaire.tel.interieur.gov.tn</url>
+  <url>http://annuaire.benfarhat.org</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
