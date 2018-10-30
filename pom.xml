@@ -5,13 +5,13 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>org.benfarhat</groupId>
-  <artifactId>AnnuaireTelephonique</artifactId>
+  <artifactId>JavaDB</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>AnnuaireTelephonique</name>
+  <name>JavaDB</name>
   <!-- FIXME change it to the project's website -->
-  <url>http://annuaire.benfarhat.org</url>
+  <url>http://javadb.benfarhat.org</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
